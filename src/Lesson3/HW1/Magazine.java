@@ -1,0 +1,11 @@
+package Lesson3.HW1;
+
+import lombok.Data;
+
+@Data
+public class Magazine implements Printable{
+    @Override
+    public void print() {
+        System.out.println("This is a Magazine");
+    }
+}
