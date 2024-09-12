@@ -10,7 +10,7 @@ public class User {
     private String email;
     private int age;
     private Gender gender;
-    private ArrayList<Skill>skills;
+    private ArrayList<Skill> skills;
     private Car car;
 
     //Constructors

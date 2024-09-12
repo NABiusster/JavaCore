@@ -4,31 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70b2c1e7-050f-47db-a90f-a326a7de42f7" name="Changes" comment="HW1">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task1/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task1/Geo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task2/Netbook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task2/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task2/UltraBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task3/Comics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task3/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task3/Papirus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task4/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task4/Skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2/Task4/User.java" afterDir="false" />
+    <list default="true" id="70b2c1e7-050f-47db-a90f-a326a7de42f7" name="Changes" comment="HW2">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task1/Classes/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task1/Classes/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task1/Interfaces/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task2/Classes/Drum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task2/Classes/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task2/Classes/Trumpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task2/Interfaces/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Task4/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Task4/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +27,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,12 +60,14 @@
   "keyToString": {
     "Application.HomeWork2.Task3.Main.executor": "Run",
     "Application.HomeWork2.Task4.Main.executor": "Run",
+    "Application.HomeWork3.Task1.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nabiu/IdeaProjects/JavaCore/src/HomeWork3/Task2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,15 +83,19 @@
       <recent name="HomeWork2.Task4" />
       <recent name="HomeWork2.User" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nabiu\IdeaProjects\JavaCore\src\HomeWork3\Task2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nabiu\IdeaProjects\JavaCore\src\libs" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HomeWork3.Task2" />
       <recent name="HomeWork2.Task3" />
       <recent name="HomeWork2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeWork2.Task4.Main">
+  <component name="RunManager" selected="Application.HomeWork3.Task2.Main">
     <configuration name="HomeWork2.Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork2.Task3.Main" />
       <module name="JavaCore" />
@@ -128,6 +122,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWork3.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork3.Task1.Main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork3.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork3.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork3.Task2.Main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork3.Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork2.Task2.Main" />
       <module name="JavaCore" />
@@ -143,6 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork3.Task2.Main" />
+        <item itemvalue="Application.HomeWork3.Task1.Main" />
         <item itemvalue="Application.HomeWork2.Task4.Main" />
         <item itemvalue="Application.HomeWork2.Task3.Main" />
         <item itemvalue="Application.Main" />
@@ -169,7 +191,9 @@
       <workItem from="1725905523338" duration="2039000" />
       <workItem from="1725907601065" duration="2336000" />
       <workItem from="1725947330792" duration="276000" />
-      <workItem from="1725947626613" duration="12052000" />
+      <workItem from="1725947626613" duration="12687000" />
+      <workItem from="1726043060937" duration="113000" />
+      <workItem from="1726125104163" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <option name="closed" value="true" />
@@ -179,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725862072093</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW2">
+      <option name="closed" value="true" />
+      <created>1725989003609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725989003609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1" />
+    <MESSAGE value="HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
